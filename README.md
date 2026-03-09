@@ -82,6 +82,19 @@ bash eval_rgbe.sh
 ```
 We refer you to use [VisEvent_SOT_Benchmark](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark) for evaluation.
 
+
+## Citation
+Please cite our work if you think it is useful for your research.
+
+```bibtex
+@inproceedings{DMTrack,
+  title={DMTrack: Spatio-Temporal Multimodal Tracking via Dual-Adapter},
+  author={Li, Weihong and Dong, Shaohua and Lu, Haonan and Zhang, Yanhao and Fan, Heng and Zhang, Libo},
+  booktitle={2026 IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2025}
+}
+```
+
 ## Acknowledgment
 - This repo is based on [ViPT](https://github.com/jiawen-zhu/ViPT) and [BAT](https://github.com/SparkTempest/BAT), these exellent works help us to quickly implement our ideas.
 - Thanks for the [OSTrack](https://github.com/botaoye/OSTrack) and [PyTracking](https://github.com/visionml/pytracking) library.
