@@ -1,11 +1,10 @@
 # DMTrack
-The official implementation for the **ICRA 2026** paper **DMTrack: Spatio-Temporal Multimodal Tracking via Dual-Adapter**
-
+The official implementation for the **ICRA 2026** paper [**DMTrack: Spatio-Temporal Multimodal Tracking via Dual-Adapter**](https://arxiv.org/abs/2508.01592).
 
 ## Models
 
-<!-- [Models & Raw Results](https://pan.baidu.com/s/1Fcv2BX2HTb8M8u2IRJ75aQ?pwd=ak66)
-(Baidu Driver: ak66) -->
+<!-- [Models & Raw Results](https://pan.baidu.com/s/)
+(Baidu Driver: xxxx) -->
 
 [Models & Raw Results](https://drive.google.com/drive/folders/1BKu3sV4tMj-87a0RsGcG8t7uE_ZmoGhT?usp=sharing)
 (Google Drive)
